@@ -1,0 +1,6 @@
+If you need to run our code you should follow these steps:
+
+1--> You should run our environment "queens_env" by "conda activate queens_env" command on the terminal of "visual studies code program" 
+
+2--> Now you can run the first notebook which is "preprocessing.ipynb".
+The input dataset to this notebook is "DEBI Dataset (1).xlsx" and the output is "ts_drive.csv". This preprocessed dataset is used  as input in the two notebooks "Numerical_model_RSRP.ipynb" and "Multimodal_model_RSRP.ipynb".
